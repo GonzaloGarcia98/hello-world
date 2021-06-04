@@ -1,2 +1,7 @@
 # hello-world
-First repository for the guide
+
+Hola!
+
+Me llamo gonzalo y no quiero hacer más cursos de python
+
+
